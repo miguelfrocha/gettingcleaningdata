@@ -17,7 +17,7 @@ The file *run_analysis.R* includes all the relevant code for data pre-processing
 4. Appropriately labels the data set with descriptive variable names
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
-In this file, the code is fully commented to allow 
+In this file, the code is fully commented to allow to easily understand all steps.
 
 The resulting tidy dataset produced by this pipeline is given in the file *result-tidy-data.txt*.
 This includes the variables listed and explained in the codebook (*CodeBook.md*).
