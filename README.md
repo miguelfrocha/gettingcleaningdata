@@ -22,3 +22,4 @@ In this file, the code is fully commented to allow to easily understand all step
 The resulting tidy dataset produced by this pipeline is given in the file *result-tidy-data.txt*.
 This includes the variables listed and explained in the codebook (*CodeBook.md*).
 
+

@@ -30,3 +30,7 @@ The measurements include:
 * BodyAccJerkMag
 * BodyGyroMag
 * BodyGyroJerkMag
+
+More details on the meaning of these measurements can be found on the original site:
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
